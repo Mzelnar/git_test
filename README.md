@@ -1,0 +1,1 @@
+This is Mzelnar's first git project!
